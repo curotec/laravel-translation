@@ -21,7 +21,7 @@ You can install Laravel Translation App in only 6 commands!
 The first is to clone the projet :
 
 ```bash
-git clone https://github.com/curotec/laravel-translator.git
+git clone https://github.com/curotec/laravel-translation.git
 ```
 
 Go to the root of the project and launch the second command to launch the projects files
