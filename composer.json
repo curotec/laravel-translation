@@ -13,6 +13,7 @@
         "laravel/framework": "5.7.*",
         "laravel/tinker": "^1.0",
         "maatwebsite/excel": "^3.1",
+        "symfony/http-foundation": "4.2",
         "zanysoft/laravel-zip": "^1.0"
     },
     "require-dev": {
